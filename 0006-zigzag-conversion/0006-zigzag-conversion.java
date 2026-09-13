@@ -1,6 +1,6 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (numRows == 1 || numRows >= s.length()) {
+        if (numRows == 1) {
             return s;
         }
 
