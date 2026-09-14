@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TarunThakur007/DsaSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TarunThakur007/DsaSolution/tree/master/0485-max-consecutive-ones) |
+| [0766-toeplitz-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
+| [0766-toeplitz-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
