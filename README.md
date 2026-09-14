@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TarunThakur007/DsaSolution/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
+| [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
