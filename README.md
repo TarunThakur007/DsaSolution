@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
