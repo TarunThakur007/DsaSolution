@@ -5,7 +5,7 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         for(int i=0;i<m;i++){
             int min = Integer.MAX_VALUE;
-            int col=-1;
+            int col=0;
             for(int j=0;j<n;j++){
                 if(matrix[i][j]<min){
                     min = matrix[i][j];
