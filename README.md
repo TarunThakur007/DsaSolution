@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TarunThakur007/DsaSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TarunThakur007/DsaSolution/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/TarunThakur007/DsaSolution/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/TarunThakur007/DsaSolution/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
