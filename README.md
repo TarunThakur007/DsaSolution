@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/TarunThakur007/DsaSolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/TarunThakur007/DsaSolution/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
+| [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/TarunThakur007/DsaSolution/tree/master/0728-self-dividing-numbers) |
 ## Quicksort
 |  |
