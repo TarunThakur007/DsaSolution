@@ -10,9 +10,9 @@ class Solution {
             ans[n+j] = nums2[j];  
         }
         Arrays.sort(ans);
-        // for(int i=0;i<ans.length;i++){
+        for(int i=0;i<ans.length;i++){
             
-        // }
+        }
         int a = ans.length;
         if(a % 2 == 1) {
             return ans[a / 2];
