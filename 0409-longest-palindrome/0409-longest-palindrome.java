@@ -12,9 +12,10 @@ class Solution {
                 odd = true;
             }
         }
-        if(odd){
-            a+=1;
-        }
-        return a;
+        // if(odd){
+        //     a+=1;
+        // }
+        // return a;
+        return odd?a+1:a;
     }
 }
