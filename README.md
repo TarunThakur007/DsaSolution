@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/TarunThakur007/DsaSolution/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TarunThakur007/DsaSolution/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
