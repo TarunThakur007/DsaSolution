@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TarunThakur007/DsaSolution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TarunThakur007/DsaSolution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TarunThakur007/DsaSolution/tree/master/0118-pascals-triangle) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TarunThakur007/DsaSolution/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TarunThakur007/DsaSolution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TarunThakur007/DsaSolution/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TarunThakur007/DsaSolution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0344-reverse-string) |
