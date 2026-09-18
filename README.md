@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/TarunThakur007/DsaSolution/tree/master/1672-richest-customer-wealth) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/TarunThakur007/DsaSolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TarunThakur007/DsaSolution/tree/master/0771-jewels-and-stones) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Queue
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
