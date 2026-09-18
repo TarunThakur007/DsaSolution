@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TarunThakur007/DsaSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TarunThakur007/DsaSolution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/TarunThakur007/DsaSolution/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/TarunThakur007/DsaSolution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/TarunThakur007/DsaSolution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
