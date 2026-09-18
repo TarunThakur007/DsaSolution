@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/TarunThakur007/DsaSolution/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/TarunThakur007/DsaSolution/tree/master/1672-richest-customer-wealth) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/TarunThakur007/DsaSolution/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -152,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
