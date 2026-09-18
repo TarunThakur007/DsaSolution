@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TarunThakur007/DsaSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TarunThakur007/DsaSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TarunThakur007/DsaSolution/tree/master/0485-max-consecutive-ones) |
@@ -163,5 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/TarunThakur007/DsaSolution/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
