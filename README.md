@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/TarunThakur007/DsaSolution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TarunThakur007/DsaSolution/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/TarunThakur007/DsaSolution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TarunThakur007/DsaSolution/tree/master/0058-length-of-last-word) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TarunThakur007/DsaSolution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
