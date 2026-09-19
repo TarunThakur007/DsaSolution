@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TarunThakur007/DsaSolution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TarunThakur007/DsaSolution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TarunThakur007/DsaSolution/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TarunThakur007/DsaSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0119-pascals-triangle-ii) |
 ## Math
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
 ## Interactive
 |  |
 | ------- |
