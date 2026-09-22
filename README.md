@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/TarunThakur007/DsaSolution/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/TarunThakur007/DsaSolution/tree/master/1929-concatenation-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/TarunThakur007/DsaSolution/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
