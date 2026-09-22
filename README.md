@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/TarunThakur007/DsaSolution/tree/master/0728-self-dividing-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TarunThakur007/DsaSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Quicksort
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TarunThakur007/DsaSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
