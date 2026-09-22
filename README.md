@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/TarunThakur007/DsaSolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TarunThakur007/DsaSolution/tree/master/0771-jewels-and-stones) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/TarunThakur007/DsaSolution/tree/master/0728-self-dividing-numbers) |
 ## Quicksort
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/TarunThakur007/DsaSolution/tree/master/1929-concatenation-of-array) |
