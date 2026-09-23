@@ -17,21 +17,22 @@ class Solution {
         //         r++;
         // }
         // return true;
-        String a="";
-        for(int i=0;i<s.length();i++){
-            if(Character.isLetterOrDigit(s.charAt(i))){
-                a+=s.charAt(i);
-            }
-        }
+
+        // String a="";
+        // for(int i=0;i<s.length();i++){
+        //     if(Character.isLetterOrDigit(s.charAt(i))){
+        //         a+=s.charAt(i);
+        //     }
+        // }
         int l=0;
-        int r=a.length()-1;
+        int r=s.length()-1;
         while(l<r){
-            if(Character.toLowerCase(a.charAt(l))==Character.toLowerCase(a.charAt(r)) || Character.toLowerCase(a.charAt(l))==Character.toLowerCase(a.charAt(r))){ 
-                l++;
-                r--;
-            }else{
-                return false;
-            }
+            while (l < r && !Character.isLetterOrDigit(s.charAt(l))) l++;
+            while (l < r && !Character.isLetterOrDigit(s.charAt(r))) r--;
+            if (Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r)))
+            return false;
+            l++;
+            r--;
         }
         return true;
     }
