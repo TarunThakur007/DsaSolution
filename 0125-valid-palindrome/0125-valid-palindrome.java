@@ -18,7 +18,6 @@ class Solution {
         // }
         // return true;
         String a="";
-        s=s.toLowerCase();
         for(int i=0;i<s.length();i++){
             if(Character.isLetterOrDigit(s.charAt(i))){
                 a+=s.charAt(i);
@@ -27,11 +26,12 @@ class Solution {
         int l=0;
         int r=a.length()-1;
         while(l<r){
-            if(a.charAt(l)!=a.charAt(r)){ 
+            if(Character.toLowerCase(a.charAt(l))==Character.toLowerCase(a.charAt(r)) || Character.toLowerCase(a.charAt(l))==Character.toLowerCase(a.charAt(r))){ 
+                l++;
+                r--;
+            }else{
                 return false;
             }
-            l++;
-            r--;
         }
         return true;
     }
