@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/TarunThakur007/DsaSolution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/TarunThakur007/DsaSolution/tree/master/1929-concatenation-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TarunThakur007/DsaSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/TarunThakur007/DsaSolution/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TarunThakur007/DsaSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TarunThakur007/DsaSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Quicksort
 |  |
 | ------- |
