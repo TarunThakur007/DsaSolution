@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/TarunThakur007/DsaSolution/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/TarunThakur007/DsaSolution/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
