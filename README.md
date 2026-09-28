@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/TarunThakur007/DsaSolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TarunThakur007/DsaSolution/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/TarunThakur007/DsaSolution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Queue
 |  |
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TarunThakur007/DsaSolution/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
