@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TarunThakur007/DsaSolution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/TarunThakur007/DsaSolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0387-first-unique-character-in-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/TarunThakur007/DsaSolution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/TarunThakur007/DsaSolution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/TarunThakur007/DsaSolution/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/TarunThakur007/DsaSolution/tree/master/0441-arranging-coins) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TarunThakur007/DsaSolution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TarunThakur007/DsaSolution/tree/master/0867-transpose-matrix) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TarunThakur007/DsaSolution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/TarunThakur007/DsaSolution/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TarunThakur007/DsaSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
