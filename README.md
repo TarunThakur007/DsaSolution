@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TarunThakur007/DsaSolution/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/TarunThakur007/DsaSolution/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/TarunThakur007/DsaSolution/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -262,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/TarunThakur007/DsaSolution/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/TarunThakur007/DsaSolution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
