@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/TarunThakur007/DsaSolution/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/TarunThakur007/DsaSolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/TarunThakur007/DsaSolution/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TarunThakur007/DsaSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TarunThakur007/DsaSolution/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TarunThakur007/DsaSolution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/TarunThakur007/DsaSolution/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TarunThakur007/DsaSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
