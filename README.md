@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TarunThakur007/DsaSolution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TarunThakur007/DsaSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TarunThakur007/DsaSolution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/TarunThakur007/DsaSolution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/TarunThakur007/DsaSolution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TarunThakur007/DsaSolution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TarunThakur007/DsaSolution/tree/master/0053-maximum-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/TarunThakur007/DsaSolution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TarunThakur007/DsaSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/TarunThakur007/DsaSolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/TarunThakur007/DsaSolution/tree/master/0349-intersection-of-two-arrays) |
