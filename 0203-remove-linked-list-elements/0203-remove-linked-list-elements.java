@@ -11,7 +11,17 @@
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
         if(head == null) return null;
-        head.next = removeElements(head.next,val);
-        return head.val == val ? head.next : head;
+        // head.next = removeElements(head.next,val);
+        // return head.val == val ? head.next : head;
+        ListNode dummy = new ListNode(0, head);
+        ListNode current = dummy;
+        while (current.next != null) {
+            if (current.next.val == val) {
+                current.next = current.next.next;
+            } else {
+                current = current.next;
+            }
+        }
+        return dummy.next;
     }
 }
