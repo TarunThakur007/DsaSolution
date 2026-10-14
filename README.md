@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/TarunThakur007/DsaSolution/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TarunThakur007/DsaSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TarunThakur007/DsaSolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TarunThakur007/DsaSolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TarunThakur007/DsaSolution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/TarunThakur007/DsaSolution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/TarunThakur007/DsaSolution/tree/master/0678-valid-parenthesis-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TarunThakur007/DsaSolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
